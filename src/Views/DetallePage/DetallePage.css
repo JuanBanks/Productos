@@ -1,0 +1,57 @@
+#Browser-characters {
+    display: flexbox;
+    justify-items: center;
+    align-content: center;
+    background-color: rgb(31, 30, 30);
+    overflow-y: auto;
+}
+
+
+#Browser-characters>* {
+
+    margin-top: 1vh;
+
+}
+
+#Characters-1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70vw;
+    height: 550px;
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/815/251/611/naruto-blue-eight-trigrams-sealing-style-hd-wallpaper-preview.jpg');
+ background-size: contain;
+    overflow-y: auto;
+    color: aliceblue;
+
+}
+
+#Auxx{
+display: flex;
+flex-direction: column;
+align-items: center;
+flex-wrap: wrap;
+gap: 3vh;
+}
+
+#Auxx1{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3vh;
+    }
+
+#Image{
+    border-radius: 50%;
+    width: 70%;
+    height: 70%;
+
+}
+
+#subEstilo{
+
+    font-size: 1.3rem;
+}

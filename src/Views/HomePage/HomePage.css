@@ -1,0 +1,23 @@
+#ContenedorHome{
+    background-image: url(https://wallpapers.com/images/hd/hugging-hinata-and-naruto-laptop-1g4e9n9c620jusc3.jpg);
+    background-size: cover;
+    overflow-y: auto; 
+    display: flex;
+    justify-content:space-between;
+height: 100vh;
+    
+    
+}
+
+#ContenedorCard{
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    margin: 2vh;
+  
+    
+}
+
+#ContenedorFavo{
+    margin-right: 7vh;
+}
